@@ -56,6 +56,7 @@
 		AC70C4FE1E748175005E598A /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC70C4FD1E748175005E598A /* WebViewController.swift */; };
 		C6605C7F1E85D3C6008DC576 /* logan-trailer.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C6605C7D1E85D3C6008DC576 /* logan-trailer.mp4 */; };
 		C6605C801E85D3C6008DC576 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C6605C7E1E85D3C6008DC576 /* music.mp3 */; };
+		C6605C821E85F44C008DC576 /* allianz_parque_panoramica___palmeiras_by_panico747-d8736vy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C6605C811E85F44C008DC576 /* allianz_parque_panoramica___palmeiras_by_panico747-d8736vy.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -110,6 +111,7 @@
 		AC70C4FD1E748175005E598A /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		C6605C7D1E85D3C6008DC576 /* logan-trailer.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "logan-trailer.mp4"; sourceTree = "<group>"; };
 		C6605C7E1E85D3C6008DC576 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
+		C6605C811E85F44C008DC576 /* allianz_parque_panoramica___palmeiras_by_panico747-d8736vy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "allianz_parque_panoramica___palmeiras_by_panico747-d8736vy.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 				AC66B47C1E835D9B00C8D5F9 /* SettingsViewController.swift */,
 				C6605C7D1E85D3C6008DC576 /* logan-trailer.mp4 */,
 				C6605C7E1E85D3C6008DC576 /* music.mp3 */,
+				C6605C811E85F44C008DC576 /* allianz_parque_panoramica___palmeiras_by_panico747-d8736vy.jpg */,
 				07780D501E6D860E00BC3630 /* Main.storyboard */,
 				AC66B47E1E8361A000C8D5F9 /* Settings.bundle */,
 				AC264C191E7CA30200F083F1 /* MoviesLib.xcdatamodeld */,
@@ -318,6 +321,7 @@
 				AC64CEE11E70C98E00FD5EFF /* kongskull-small.jpg in Resources */,
 				07780D521E6D860E00BC3630 /* Main.storyboard in Resources */,
 				AC64CED61E70C98E00FD5EFF /* arrival-wide.jpg in Resources */,
+				C6605C821E85F44C008DC576 /* allianz_parque_panoramica___palmeiras_by_panico747-d8736vy.jpg in Resources */,
 				AC64CEE61E70C98E00FD5EFF /* logan-wide.jpg in Resources */,
 				AC64CEEA1E70C98E00FD5EFF /* rogueone-wide.jpg in Resources */,
 				AC66B47F1E8361A000C8D5F9 /* Settings.bundle in Resources */,
